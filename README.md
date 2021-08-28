@@ -1,0 +1,1 @@
+# android_device_motorola_sm6150_common
